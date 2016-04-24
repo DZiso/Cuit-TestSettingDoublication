@@ -1,0 +1,12 @@
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\TestTarget\bin\Debug\TestTarget.exe.config
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\TestTarget\bin\Debug\TestTarget.exe
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\TestTarget\bin\Debug\TestTarget.pdb
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\TestTarget\obj\Debug\TestTarget.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\TestTarget\obj\Debug\TestTarget.exe
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\TestTarget\obj\Debug\TestTarget.pdb
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\bin\Debug\TestTarget.exe.config
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\bin\Debug\TestTarget.exe
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\bin\Debug\TestTarget.pdb
+C:\Users\david\Source\Repos\Cuit-TestSettingDoublication\TestsettingDoublication\bin\Debug\TestTarget.exe.config
+C:\Users\david\Source\Repos\Cuit-TestSettingDoublication\TestsettingDoublication\TestTarget\obj\Debug\TestTarget.exe
+C:\Users\david\Source\Repos\Cuit-TestSettingDoublication\TestsettingDoublication\TestTarget\obj\Debug\TestTarget.pdb

@@ -1,0 +1,7 @@
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\SecondCuitRun\bin\Debug\SecondCuitRun.dll
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\SecondCuitRun\bin\Debug\SecondCuitRun.pdb
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\SecondCuitRun\obj\Debug\SecondCuitRun.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\SecondCuitRun\obj\Debug\SecondCuitRun.dll
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\SecondCuitRun\obj\Debug\SecondCuitRun.pdb
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\bin\Debug\SecondCuitRun.dll
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\bin\Debug\SecondCuitRun.pdb

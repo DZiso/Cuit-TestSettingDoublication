@@ -1,0 +1,7 @@
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\FirstCuitRun\bin\Debug\FirstCuitRun.dll
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\FirstCuitRun\bin\Debug\FirstCuitRun.pdb
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\FirstCuitRun\obj\Debug\FirstCuitRun.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\FirstCuitRun\obj\Debug\FirstCuitRun.dll
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\FirstCuitRun\obj\Debug\FirstCuitRun.pdb
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\bin\Debug\FirstCuitRun.dll
+c:\users\david\documents\visual studio 2015\Projects\TestsettingDoublication\bin\Debug\FirstCuitRun.pdb
